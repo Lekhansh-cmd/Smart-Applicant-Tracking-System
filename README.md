@@ -1,5 +1,4 @@
 # Smart-Applicant-Tracking-System
-# Application Tracking System using Gemini Pro
 
 Connect with me on social media and explore my work:
 
